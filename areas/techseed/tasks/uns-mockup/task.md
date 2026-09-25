@@ -31,7 +31,8 @@ Decided:
 - stated: the consequences shown are a pinned tag's topic path (main effect), plus a side panel with shape metrics (depth, node count, average children per node) and what one wildcard subscription matches.
 - stated: fake data is medium sized: 1 site, 3 to 4 areas, 2 lines each, about 80 to 120 tags.
 - stated: hover shows name, level, topic path, data type, unit, source system, update rate, and child count for non-tag nodes.
-- stated: dark theme by default, with a light toggle; UI text in English; the header uses the neutral name "UNS Explorer" and no company or client names.
+- stated: look and feel follow the reference file uns-explorer-web-interface.html (paper ground, ink text, one green accent, IBM Plex Sans and Mono); this replaces the earlier Runway, Warp and Cohere direction.
+- stated: light theme by default, with a dark toggle (changed 2026-09-25 from dark by default); UI text in English; the header uses the neutral name "UNS Explorer" and no company or client names.
 - stated: delivered as one self-contained HTML file in outputs/, also published as an Artifact.
 - assumed: the fake plant is a dairy (food and beverage), because no client industry was given.
 - assumed: clicking a tag pins it and keeps its topic path highlighted through the morph, because that is how a tag's changing path becomes visible.
